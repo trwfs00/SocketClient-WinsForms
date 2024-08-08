@@ -9,7 +9,7 @@
 
 # Windows Forms App (.NET Framework)
 I'm using WebSocketSharp as WebSocket Client that can receive and send message to WebSocket Server.
-nuget install command: `Install-Package WebSocketSharp -Version 1.0.3-rc11`
+- nuget install command: `Install-Package WebSocketSharp -Version 1.0.3-rc11`
 
 # Which Project Type that I use
 ![image](https://github.com/user-attachments/assets/29ccb191-68b5-44fa-8d69-98c7042ee020)
