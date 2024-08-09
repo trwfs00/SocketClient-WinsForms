@@ -1,3 +1,7 @@
+## Update: Join room to chat with your friends.
+![image](https://github.com/user-attachments/assets/b1c73db0-191a-4da7-a00f-cb0a9cf65d50)
+![image](https://github.com/user-attachments/assets/49ef2f22-030d-4b63-bd8b-fca190208557)
+
 ## React:
 ![image](https://github.com/user-attachments/assets/98595559-ba4a-44b2-8265-26742bd13bd0)
 
